@@ -2,9 +2,6 @@
 
 We design a nice clean analog clock app UI by using flutter. Our clock supports both the Dark and Light theme. If you want to learn how to use both Light and Dark theme then it helps a lot.
 
-## Buy Me a Coffee
-![Preview](/support.jpg)
-
 **Packages we are using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
@@ -17,3 +14,8 @@ We design a nice clean analog clock UI by using flutter. Our clock supports both
 
 ![Preview](/intro.gif)
 ![Preview](/ui.png)
+
+
+## Buy Me a Coffee
+![Preview](/support.jpg)
+
